@@ -1,0 +1,17 @@
+{
+  "name": "ui-test-assessment",
+  "version": "1.0.0",
+  "description": "At employees.html the following client requirement has been implemented: - The possibility to see the city of origin of the selected employees in a list.",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.52.0",
+    "@types/node": "^22.15.17"
+  }
+}
